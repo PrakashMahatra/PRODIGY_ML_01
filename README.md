@@ -61,7 +61,7 @@ The following techniques are implemented in this project:
 
 ## Results
 
-After thorough experimentation and tuning, the best performing model was the **Linear regression** with an RMSE of  on the test data. Detailed results and insights can be found in the notebooks.
+After thorough experimentation and tuning, the best performing model was the **Linear regression** with an RMSE of 50045.870 on the test data. Detailed results and insights can be found in the notebooks.
 
 ## Contributing
 
